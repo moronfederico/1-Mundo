@@ -10,7 +10,8 @@ export class BodyComponent {
 
    frase: any ={
       mensaje: 'Un gran poder requiere una gran responsabilidad',
-      autor: 'Ben Parker'
+      autor: 'Ben Parker',
+      director: 'feder'
    };
 
    personajes: string[] = [ 'Spiderman', 'Vemon', 'Iroman'] 
